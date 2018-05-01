@@ -30,7 +30,7 @@ v1.3''', description: 'What to deploy?')
     }
   }
   environment {
-    MY_NAME = 'Mary'
+    MY_NAME = 'Kirti'
     TEST_USER = credentials('test-user')
   }
   post {
